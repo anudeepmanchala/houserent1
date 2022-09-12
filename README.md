@@ -1,2 +1,1 @@
-# houserent1
-rent prediction
+# HouseRent
